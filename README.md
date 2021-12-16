@@ -1,4 +1,5 @@
-# olá Mundo
+# Olá, Mundo
+
  primeiro repositorio Git e Github
 
  Repositorio criado durante Curso em Video
